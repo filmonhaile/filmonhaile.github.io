@@ -32,7 +32,7 @@ function Hero() {
               <TypeAnimation
                 cursor={false}
                 sequence={[
-                  'Hi, I\'m Pedro.',
+                  'Hi, I\'m Filmon.',
                   () => setShowSubtitle(true)
                 ]}
                 speed={{ type: "keyStrokeDelayInMs", value: 150 }}
@@ -44,24 +44,27 @@ function Hero() {
                   cursor={true}
                   sequence={[
                     500,
-                    'A Full-Stack Developer.',
+                    'A Research and Development Engineer.',
                     1000,
-                    'A BCIT graduate.',
-                    // 'I design and code beautifully simple things, and I love what I do.',
+                    'A Computer Scinece and Engineering graduate.',
+                    1000,
+                    'A.... AI Researcher',
+                    1000,
+                    'A.... Web and Mobile app Developer',
                     1000,
                     'A problem solver.',
                     1000,
                     'An innovative thinker.',
                     1000,
-                    'A....',
+                    'A.... Project Manager',
+                    1000,
+                    'An.... Excellent Consultant',
                     1000,
                     'A.... cool guy?',
                     1000,
                     "Ok...",
-                    1000,
-                    "Ok...  I'm running out of ideas...",
-                    1000,
-                    "Uhh...",
+                    // 1000,
+                    // "Uhh...",
                     1000,
                     "Uhh... you can scroll down to see my projects now...",
                     300,

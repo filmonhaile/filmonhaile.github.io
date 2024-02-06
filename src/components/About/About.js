@@ -23,20 +23,37 @@ function About() {
         </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-            Hello! My name is <strong>Pedro Muniz</strong>. I'm originally from Brazil and have been living in Canada for the past three years. During my time here, I gained valuable experience through various entry-level positions, which greatly enhanced my work ethic, communication skills, and adaptability.
+            'Selam'! My name is <strong>Filmon Haile</strong>, and I'm an Ethiopian tech enthusiast driven by a thirst for innovation and the desire to build a better future for my community. My journey began at Mekelle Institute of Technology, where I traversed the vast landscapes of computer science and engineering. But classrooms weren't enough – I craved real-world impact.
             </ScrollAnimation>
 
             <br /><br />
             
             <ScrollAnimation animateIn="fadeInLeft">
-            My journey into the world of technology began with a strong passion for problem-solving, which led me to pursue the Computer Systems Technology program. Despite its challenges, I remained determined and forged lasting friendships that supported me throughout this demanding program.
-            Throughout my studies at BCIT, I had the opportunity to engage in fascinating projects. Notably, I contributed to the development of the RENR Safety App and MyMind, projects that garnered recognition from my colleagues, instructors, and clients alike.
+            That's where projects like early breast cancer detection using deep learning and plant leaf disease detection using machine learning took center stage. These weren't just academic exercises; they were weapons aimed at tackling critical issues in health and agriculture. Witnessing the potential of technology to transform lives fueled my passion to bridge the gap between theory and tangible impact.
+            </ScrollAnimation>
+            
+            <br /><br />
+            
+            <ScrollAnimation animateIn="fadeInLeft">
+            But my endeavors weren't limited to scientific frontiers. I believe code can weave not just algorithms, but connections. Hence, my portfolio boasts websites and web applications, some sleek and simple, others intricate and complex – all crafted with the user in mind.
             </ScrollAnimation>
 
             <br /><br />
 
             <ScrollAnimation animateIn="fadeInLeft">
-              Working collaboratively within a team towards a shared objective has been an incredibly rewarding and unique experience for me. I am eager to continue exploring exciting projects in the future, with a particular interest in web development and cross-platform mobile development.
+            My experience straddles both academia and industry. As an assistant lecturer and research engineer, I honed my research and communication skills, delving into robotics, UAVs, AI, computer vision, and even quantum computing. In the industry, I solidified my organizational and managerial abilities, learning the art of collaborative problem-solving within diverse teams
+            </ScrollAnimation>
+            
+            <br /><br />
+
+            <ScrollAnimation animateIn="fadeInLeft">
+            National and international conferences, workshops, and hackathons became my platforms to share knowledge and connect with like-minded individuals, each interaction fueling my journey.
+            </ScrollAnimation>
+
+            <br /><br />
+
+            <ScrollAnimation animateIn="fadeInLeft">
+            Today, I stand at the intersection of technology, creativity, and community impact. Eager to explore what lies ahead, I'm constantly seeking exciting projects where my diverse skillset can make a meaningful difference.
               <div className="tagline2">
                 I have become confident using the following technologies:
               </div>
