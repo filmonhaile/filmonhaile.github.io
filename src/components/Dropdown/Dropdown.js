@@ -78,6 +78,13 @@ function Dropdown({ isOpen, toggle }) {
         <NavLink
           onClick={toggle}
           className="menu-item"
+          to="about"
+        >
+          Blog
+        </NavLink>
+        <NavLink
+          onClick={toggle}
+          className="menu-item"
           to="contact"
         >
           Contact
@@ -86,7 +93,7 @@ function Dropdown({ isOpen, toggle }) {
       <NavBtn onClick={toggle}>
         <a
           className="btn PrimaryBtn"
-          href="https://linkedin.com/in/filmonhaile"
+          href="https://www.linkedin.com/in/filmon-h-assefa-57000513a/"
           target="_blank"
           rel="noopener noreferrer"
         >

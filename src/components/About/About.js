@@ -23,37 +23,48 @@ function About() {
         </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-            'Selam'! My name is <strong>Filmon Haile</strong>, and I'm an Ethiopian tech enthusiast driven by a thirst for innovation and the desire to build a better future for my community. My journey began at Mekelle Institute of Technology, where I traversed the vast landscapes of computer science and engineering. But classrooms weren't enough – I craved real-world impact.
+            <strong>Hi, I’m Filmon Haile Assefa</strong>, a data enthusiast who turns complexity into clarity through analytics, storytelling, and impact-driven technology.
             </ScrollAnimation>
 
             <br /><br />
             
             <ScrollAnimation animateIn="fadeInLeft">
-            That's where projects like early breast cancer detection using deep learning and plant leaf disease detection using machine learning took center stage. These weren't just academic exercises; they were weapons aimed at tackling critical issues in health and agriculture. Witnessing the potential of technology to transform lives fueled my passion to bridge the gap between theory and tangible impact.
+            I studied computer science and engineering, but somewhere along the way I realized I’m happiest when 
+I’m inside a dataset: writing SQL queries, building Python workflows (Pandas, NumPy, Seaborn, Matplotlib, and OpenCV), 
+designing dashboards in Tableau or Power BI, or using R when the situation demands extra statistics. 
+I also have a solid understanding of machine learning with Scikit-learn, TensorFlow, and PyTorch, 
+because sometimes the data doesn’t just need to be explained, it needs to predict.
             </ScrollAnimation>
             
             <br /><br />
             
             <ScrollAnimation animateIn="fadeInLeft">
-            But my endeavors weren't limited to scientific frontiers. I believe code can weave not just algorithms, but connections. Hence, my portfolio boasts websites and web applications, some sleek and simple, others intricate and complex – all crafted with the user in mind.
+            I’ve applied these skills across projects in public health, transportation, business intelligence, finance, and even gaming. 
+You’ll find some of my work on Kaggle, Tableau Public, and across my portfolio projects. 
+I also hold the Google Data Analytics Professional Certificate, proof that I survived countless spreadsheets and came out loving data even more.
+which is a fancy way of saying I’ve spent a lot of time cleaning messy data and asking “why?” until insights appear.
             </ScrollAnimation>
 
             <br /><br />
 
-            <ScrollAnimation animateIn="fadeInLeft">
-            My experience straddles both academia and industry. As an assistant lecturer and research engineer, I honed my research and communication skills, delving into robotics, UAVs, AI, computer vision, and even quantum computing. In the industry, I solidified my organizational and managerial abilities, learning the art of collaborative problem-solving within diverse teams
-            </ScrollAnimation>
+            {/* <ScrollAnimation animateIn="fadeInLeft">
+            When I’m not visualizing datasets or optimizing dashboards, I’m probably gaming, brainstorming startup ideas, or learning something new just for fun. 
+If you ever want to collaborate, share ideas, or just talk data and innovation, my door (and inbox) is always open.
+            </ScrollAnimation> */}
             
-            <br /><br />
+            {/* <br /><br /> */}
 
-            <ScrollAnimation animateIn="fadeInLeft">
+            {/* <ScrollAnimation animateIn="fadeInLeft">
             National and international conferences, workshops, and hackathons became my platforms to share knowledge and connect with like-minded individuals, each interaction fueling my journey.
-            </ScrollAnimation>
+            </ScrollAnimation> */}
 
-            <br /><br />
+            {/* <br /><br /> */}
 
             <ScrollAnimation animateIn="fadeInLeft">
-            Today, I stand at the intersection of technology, creativity, and community impact. Eager to explore what lies ahead, I'm constantly seeking exciting projects where my diverse skillset can make a meaningful difference.
+            When I’m not visualizing datasets or optimizing dashboards, I’m probably gaming, brainstorming startup ideas, or learning something new just for fun. If you ever want to collaborate, share ideas, or just talk data and innovation, my door (and inbox) is always open.
+
+
+             <br /><br /> <br /><br />
               <div className="tagline2">
                 I have become confident using the following technologies:
               </div>
